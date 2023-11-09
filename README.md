@@ -1,6 +1,6 @@
 ### oie 👋
 Sou Adriane
-<!--
+
 Estudo no colegio Dom Alberto
 Tenho 15 anos
 Amo pensamento computacional
