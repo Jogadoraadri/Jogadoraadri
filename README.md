@@ -1,16 +1,15 @@
-### Hi there 👋
-
+### oie 👋
+Sou Adriane
 <!--
-**Jogadoraadri/Jogadoraadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Estudo no colegio Dom Alberto
+Tenho 15 anos
+Amo pensamento computacional
+tenho 1 cachorro
+- 🌱 moro no interior
+- 👯 tenho 2 amigas da minha sala que são as melhores @talita @lauriane
+- 🤔 tenho muitas duvidas sobre minha vida 
+- 💬 ......
+- 
+- 😄 jogo futsal profissional .
+- 
 -->
